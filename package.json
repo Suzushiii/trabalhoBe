@@ -1,0 +1,19 @@
+{
+  "name": "app_server",
+  "version": "1.0.0",
+  "description": "trabalho final be1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suzushiii/trabalhoBe.git"
+  },
+  "author": "Matheus Galego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suzushiii/trabalhoBe/issues"
+  },
+  "homepage": "https://github.com/Suzushiii/trabalhoBe#readme"
+}
